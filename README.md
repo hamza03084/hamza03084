@@ -4,12 +4,11 @@
 - ☕ <a href="https://www.buymeacoffee.com/hamza03084" target="_blank">Buy me Coffee</a>
 - 📫 How to reach me: { <br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923011321938">+923174929596</a>)<br/>
-             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:hamza03084@gmail.com">hamza03084@gmail.com</a>)<br/>
-     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Web: (<a target="_blank" href="https://www.touqeerhussain.com/">touqeerhussain.com</a>)<br/>
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:hamza03084@gmail.com">hamzaashfaq705@gmail.com</a>)
               }
 <h1>Connect with me </h1>
 
-<a href="https://www.linkedin.com/in/touqeer-hussain-753715228/" rel="nofollow">
+<a href="https://www.linkedin.com/in/mian-hamza-ashfaq-baa8a823a/" rel="nofollow">
   <img src="https://cdn-icons-png.flaticon.com/512/2504/2504923.png" data-canonical-src="https://img.icons8.com/android/24/000000/linkedin.png" width="5%" height="5%">
 </a>
 <span>
@@ -24,7 +23,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hamza03084)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Touqeer Hussain's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamza03084&show_icons=true&theme=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza03084)](https://github.com/hamza03084/github-readme-stats)
 
