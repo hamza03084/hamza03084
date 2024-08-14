@@ -17,7 +17,7 @@
 
 
 <h1> Languages </h1>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,dotnet,mysql,react,nodejs,vue,express,mongodb,python,flutter"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,mysql,react,nodejs,vue,express,mongodb"/>
 <br>
 
 
