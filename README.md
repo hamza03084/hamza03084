@@ -1,7 +1,6 @@
 - 👋 Hi,,, I’m  hamza aahfaq
 - 🌱 I’m currently working Javascript  diffrent frameworks and libraries
 - 💞️ I’m looking to collaborate on IT 
-- ☕ <a href="https://www.buymeacoffee.com/hamza03084" target="_blank">Buy me Coffee</a>
 - 📫 How to reach me: { <br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Phone: (<a href="tel:+923011321938">+923174929596</a>)<br/>
              &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Email: (<a href="mailto:hamza03084@gmail.com">hamzaashfaq705@gmail.com</a>)
